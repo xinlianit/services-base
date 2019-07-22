@@ -3,8 +3,8 @@
  * 测试控制器
  *
  * @package  App\Http\Controller 控制器
- * @link     http://www.zhaoliangji.com/
- * @author   找靓机 PHP DEV TEAM jry(jirenyou@aliyun.com)
+ * @link     https://xinlianit.github.io/
+ * @author   jirry <jirenyoucn@gmail.com>
  * @datetime 2019/6/13 16:31
  */
 

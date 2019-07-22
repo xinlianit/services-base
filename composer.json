@@ -24,7 +24,7 @@
     "swoft/rpc-server": "~2.0.0",
     "swoft/task": "~2.0.0",
     "swoft/websocket-server": "~2.0.0",
-    "jirry/services": "~1.0@dev"
+    "jirry/services-interface": "~1.0@dev"
   },
   "require-dev": {
     "swoft/swoole-ide-helper": "dev-master",
@@ -60,7 +60,7 @@
     },
     "jirry": {
       "type": "vcs",
-      "url": "https://gitee.com/jirenyou/services.git"
+      "url": "https://github.com/xinlianit/services-interface.git"
     }
   }
 }

@@ -118,10 +118,10 @@ return [
         'class'  => ServicePool::class,
         'client' => bean('user')
     ],
-    'test'           => [
+    'log'           => [
         'class'   => ServiceClient::class,
-        'host'    => '127.0.0.1',
-        'port'    => 61000,
+        'host'    => '192.168.1.10',
+        'port'    => 8200,
         'setting' => [
             'timeout'         => 0.5,
             'connect_timeout' => 1.0,
@@ -130,9 +130,9 @@ return [
         ],
         'packet'  => bean('rpcClientPacket')
     ],
-    'test.pool'      => [
+    'log.pool'      => [
         'class'  => ServicePool::class,
-        'client' => bean('test')
+        'client' => bean('log')
     ],
     'rpcServer'      => [
         'class'   => ServiceServer::class,

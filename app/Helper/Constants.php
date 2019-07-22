@@ -2,8 +2,8 @@
 /**
  * 全局常量库
  *
- * @link     http://www.zhaoliangji.com/
- * @author   找靓机 PHP DEV TEAM jry(jirenyou@aliyun.com)
+ * @link     https://xinlianit.github.io/
+ * @author   jirry <jirenyoucn@gmail.com>
  * @datetime 2019/6/13 16:57
  */
 
